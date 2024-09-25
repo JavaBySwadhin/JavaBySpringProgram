@@ -9,7 +9,8 @@ public class HelloWorldProgram {
 
 	private static void helloWorld() {
 		System.out.println("Hello World!!!");
-		System.out.println("Yes Hello World");
+		System.out.println("Hi Swadhin.");
+		System.out.println("How are you?");
 		
 	}
 
